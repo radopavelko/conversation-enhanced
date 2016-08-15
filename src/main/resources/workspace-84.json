@@ -1,8 +1,7 @@
 {
   "name": "Car_Dashboard",
   "created": "2016-07-22T04:55:54.661Z",
-  "intents": [
-    {
+  "intents": [{
       "intent": "capabilities",
       "created": "2016-07-22T04:55:54.661Z",
       "examples": [
